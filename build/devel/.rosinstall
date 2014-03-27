@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dare/ros_workspace/navfn_openmp/build/devel/setup.sh
